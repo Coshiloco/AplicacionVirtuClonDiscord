@@ -1,0 +1,16 @@
+{
+  "name": "aplicacionvirtuclondiscord",
+  "version": "1.0.0",
+  "description": "Clon de Discord con el putisimo Virtuanista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
